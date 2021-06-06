@@ -1,1 +1,1 @@
-# Gui-Calculator-
+# Gui-Calculator- A graphical calculator
